@@ -1,0 +1,16 @@
+:root {
+  /* Colors */
+  --primary-white: hsl(0, 0%, 100%);
+  --primary-soft-blue: hsl(215, 51%, 70%);
+  --primary-cyan: hsl(178, 100%, 50%);
+
+  --secondary-main-bg: hsl(217, 54%, 11%);
+  --secondary-card-bg: hsl(216, 50%, 16%);
+  --secondary-line: hsl(215, 32%, 27%);
+
+  /* Font */
+  --font: 'Outfit', sans-serif;
+  --weight-300: 300;
+  --weight-400: 400;
+  --weight-600: 600;
+}
